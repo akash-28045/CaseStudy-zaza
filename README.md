@@ -21,16 +21,16 @@ A console-based food delivery system implemented in Core Java following OOP prin
   - Place orders and track status.
 
 # HOW TO RUN:
-1. Open your terminal.
+- Open your terminal.
 
-2. Navigate to the project root directory.
+- Navigate to the project root directory.
 
-3. Compile the code:
+- Compile the code:
    ```bash
    javac -d bin src/com/zaza/model/*.java src/com/zaza/service/*.java src/com/zaza/main/*.java
    ```
    
-4. Run the application:
+- Run the application:
    ```bash
    java -cp bin com.zaza.main.ZaZaApp
    ```
